@@ -1,0 +1,11 @@
+USE [dcMichael]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[ttDELETE_ME](
+	[C1] [nchar](10) NULL,
+	[C2] [nchar](10) NULL
+) ON [PRIMARY]
+GO

@@ -16,7 +16,6 @@ CREATE TABLE [dbo].[ttTEST](
 	[ChangedBy] [nvarchar](50) NULL,
 	[ChangedOn] [smalldatetime] NULL,
 	[ChangedVia] [nvarchar](50) NULL,
-	[boaStatus] [int] NULL,
-	[zActive] [bit] NULL
+	[boaStatus] [int] NULL
 ) ON [PRIMARY]
 GO
